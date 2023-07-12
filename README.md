@@ -45,4 +45,4 @@ API< FLASK 등의 다양한 프로그램을 사용해 개발하는데 정보가 
 팀원: 장예준
 사용툴:Jupyter AWS, Oracle DB, Eclipse jsp
 사용언어:html, css, js, jsp, Flask
-역할: aws방에(tomcat ubuntu maria db)설치 jsp어려운점 수정 및 jupyter어려움점 고침
+역할: aws에(tomcat, ubuntu, maria db)설치, jsp 수정 및 보완, jupyter 수정

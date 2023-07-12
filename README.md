@@ -26,6 +26,8 @@ API< FLASK 등의 다양한 프로그램을 사용해 개발하는데 정보가 
 5. 실행되는과정: 검색어로부터 입력한 데이터를 search_table로 부터 들어와 파이썬으로부터 
 입력받은 데이터를 가져와 자연어 처리로 모델학습을 하여 
 광고를 타게팅을 하는 방식입니다
+아래 사진 참고
+![image](https://github.com/usernamekhs/debugger/assets/118595012/e4e5ed99-6f4b-4e22-8d86-d2435c31e14e)
 
 
 6.팀장 및 팀원

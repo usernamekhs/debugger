@@ -1,4 +1,6 @@
 # debugger
+
+![DELPA LOGO(수정본)](https://github.com/usernamekhs/debugger/assets/118595012/fce93d08-f5a5-4365-9e0f-dd51d5e6b7c4)
 1. 프로젝트 명: DELPA Project 
 
 2. 프로젝트 설명: 딥러닝을 활용하여 정보를 찾는 사용자에게 최적화된 광고를 타겟하여 

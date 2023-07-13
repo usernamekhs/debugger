@@ -39,20 +39,20 @@ API< FLASK 등의 다양한 프로그램을 사용해 개발하는데 정보가 
 6.팀장 및 팀원
   
 팀장: 이준서
-사용툴:Jupyter Notebook, OracleDB
-사용언어:Python,Flask
+사용툴:Jupyter Notebook,maria db
+사용언어:Python
 역할:SQL Developer AWS 백그라운드 실행, 파이썬의 자연어 처리를 통한 인공지능 타게팅 프로그램 개발
 메인페이지에 광고타게팅을 할 수 있는 코드 작성
   
 팀원: 김현근
-사용툴:Eclipse jsp, visual studio code, Oracle DB, 어도비XD, 어도비 포토샵, 일러스트레이터
+사용툴:Eclipse jsp, visual studio code, maria db, 어도비XD, 어도비 포토샵, 일러스트레이터
 사용언어:html, css, js, jsp
-역할:html, css를 활용한 프론트엔드 제작 및 로고디자인, JSP 및 Oracle DB를 활용한 백엔드 개발
+역할:html, css를 활용한 프론트엔드 제작 및 로고디자인, JSP 및 maria db 활용한 백엔드 개발
 
 팀원: 서승한
-역할:팀원 & 팀장 보조, PPT제작 및 자료조사 
+역할:팀원 & 팀장 보조, PPT제작 및 자료조사 프론트 로고디자인 api조사
    
 팀원: 장예준
-사용툴:Jupyter AWS, Oracle DB, Eclipse jsp
-사용언어:html, css, js, jsp, Flask
-역할: aws에(tomcat, ubuntu, maria db)설치, jsp 수정 및 보완
+사용툴:Jupyter AWS, Eclipse jsp,maria db
+역할: aws에(tomcat, ubuntu, maria db)설치 filezilla로 업로드해 
+ip만듬, jsp 회원가입 로그인 로그아웃 putty(maria db연동)
